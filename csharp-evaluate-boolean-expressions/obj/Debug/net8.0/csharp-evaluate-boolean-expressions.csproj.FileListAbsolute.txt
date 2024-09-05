@@ -1,0 +1,15 @@
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-evaluate-boolean-expressions\bin\Debug\net8.0\csharp-evaluate-boolean-expressions.exe
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-evaluate-boolean-expressions\bin\Debug\net8.0\csharp-evaluate-boolean-expressions.deps.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-evaluate-boolean-expressions\bin\Debug\net8.0\csharp-evaluate-boolean-expressions.runtimeconfig.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-evaluate-boolean-expressions\bin\Debug\net8.0\csharp-evaluate-boolean-expressions.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-evaluate-boolean-expressions\bin\Debug\net8.0\csharp-evaluate-boolean-expressions.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\csharp-evaluate-boolean-expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\csharp-evaluate-boolean-expressions.AssemblyInfoInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\csharp-evaluate-boolean-expressions.AssemblyInfo.cs
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\csharp-evaluate-boolean-expressions.csproj.CoreCompileInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\csharp-evaluate-boolean-expressions.sourcelink.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\csharp-evaluate-boolean-expressions.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\refint\csharp-evaluate-boolean-expressions.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\csharp-evaluate-boolean-expressions.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\csharp-evaluate-boolean-expressions.genruntimeconfig.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-evaluate-boolean-expressions\obj\Debug\net8.0\ref\csharp-evaluate-boolean-expressions.dll
