@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Implementar-uma-instrucao-switch/1.0.0": {
+        "runtime": {
+          "Implementar-uma-instrucao-switch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Implementar-uma-instrucao-switch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

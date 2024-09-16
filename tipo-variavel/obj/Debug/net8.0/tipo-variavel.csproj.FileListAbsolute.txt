@@ -1,0 +1,15 @@
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipo-variavel\bin\Debug\net8.0\tipo-variavel.exe
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipo-variavel\bin\Debug\net8.0\tipo-variavel.deps.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipo-variavel\bin\Debug\net8.0\tipo-variavel.runtimeconfig.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipo-variavel\bin\Debug\net8.0\tipo-variavel.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipo-variavel\bin\Debug\net8.0\tipo-variavel.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipo-variavel\obj\Debug\net8.0\tipo-variavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipo-variavel\obj\Debug\net8.0\tipo-variavel.AssemblyInfoInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipo-variavel\obj\Debug\net8.0\tipo-variavel.AssemblyInfo.cs
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipo-variavel\obj\Debug\net8.0\tipo-variavel.csproj.CoreCompileInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipo-variavel\obj\Debug\net8.0\tipo-variavel.sourcelink.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipo-variavel\obj\Debug\net8.0\tipo-variavel.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipo-variavel\obj\Debug\net8.0\refint\tipo-variavel.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipo-variavel\obj\Debug\net8.0\tipo-variavel.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipo-variavel\obj\Debug\net8.0\tipo-variavel.genruntimeconfig.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipo-variavel\obj\Debug\net8.0\ref\tipo-variavel.dll

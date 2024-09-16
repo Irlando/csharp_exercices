@@ -1,0 +1,15 @@
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Desafio-da-logica-decisao\bin\Debug\net8.0\Desafio-da-logica-decisao.exe
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Desafio-da-logica-decisao\bin\Debug\net8.0\Desafio-da-logica-decisao.deps.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Desafio-da-logica-decisao\bin\Debug\net8.0\Desafio-da-logica-decisao.runtimeconfig.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Desafio-da-logica-decisao\bin\Debug\net8.0\Desafio-da-logica-decisao.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Desafio-da-logica-decisao\bin\Debug\net8.0\Desafio-da-logica-decisao.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Desafio-da-logica-decisao\obj\Debug\net8.0\Desafio-da-logica-decisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Desafio-da-logica-decisao\obj\Debug\net8.0\Desafio-da-logica-decisao.AssemblyInfoInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Desafio-da-logica-decisao\obj\Debug\net8.0\Desafio-da-logica-decisao.AssemblyInfo.cs
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Desafio-da-logica-decisao\obj\Debug\net8.0\Desafio-da-logica-decisao.csproj.CoreCompileInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Desafio-da-logica-decisao\obj\Debug\net8.0\Desafio-da-logica-decisao.sourcelink.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Desafio-da-logica-decisao\obj\Debug\net8.0\Desafio-da-logica-decisao.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Desafio-da-logica-decisao\obj\Debug\net8.0\refint\Desafio-da-logica-decisao.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Desafio-da-logica-decisao\obj\Debug\net8.0\Desafio-da-logica-decisao.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Desafio-da-logica-decisao\obj\Debug\net8.0\Desafio-da-logica-decisao.genruntimeconfig.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Desafio-da-logica-decisao\obj\Debug\net8.0\ref\Desafio-da-logica-decisao.dll

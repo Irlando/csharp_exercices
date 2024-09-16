@@ -1,0 +1,15 @@
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Implementar-uma-instrucao-switch\Implementar-uma-instrucao-switch\bin\Debug\net8.0\Implementar-uma-instrucao-switch.exe
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Implementar-uma-instrucao-switch\Implementar-uma-instrucao-switch\bin\Debug\net8.0\Implementar-uma-instrucao-switch.deps.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Implementar-uma-instrucao-switch\Implementar-uma-instrucao-switch\bin\Debug\net8.0\Implementar-uma-instrucao-switch.runtimeconfig.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Implementar-uma-instrucao-switch\Implementar-uma-instrucao-switch\bin\Debug\net8.0\Implementar-uma-instrucao-switch.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Implementar-uma-instrucao-switch\Implementar-uma-instrucao-switch\bin\Debug\net8.0\Implementar-uma-instrucao-switch.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Implementar-uma-instrucao-switch\Implementar-uma-instrucao-switch\obj\Debug\net8.0\Implementar-uma-instrucao-switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Implementar-uma-instrucao-switch\Implementar-uma-instrucao-switch\obj\Debug\net8.0\Implementar-uma-instrucao-switch.AssemblyInfoInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Implementar-uma-instrucao-switch\Implementar-uma-instrucao-switch\obj\Debug\net8.0\Implementar-uma-instrucao-switch.AssemblyInfo.cs
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Implementar-uma-instrucao-switch\Implementar-uma-instrucao-switch\obj\Debug\net8.0\Implementar-uma-instrucao-switch.csproj.CoreCompileInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Implementar-uma-instrucao-switch\Implementar-uma-instrucao-switch\obj\Debug\net8.0\Implementar-uma-instrucao-switch.sourcelink.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Implementar-uma-instrucao-switch\Implementar-uma-instrucao-switch\obj\Debug\net8.0\Implementar-uma-instrucao-switch.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Implementar-uma-instrucao-switch\Implementar-uma-instrucao-switch\obj\Debug\net8.0\refint\Implementar-uma-instrucao-switch.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Implementar-uma-instrucao-switch\Implementar-uma-instrucao-switch\obj\Debug\net8.0\Implementar-uma-instrucao-switch.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Implementar-uma-instrucao-switch\Implementar-uma-instrucao-switch\obj\Debug\net8.0\Implementar-uma-instrucao-switch.genruntimeconfig.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\Implementar-uma-instrucao-switch\Implementar-uma-instrucao-switch\obj\Debug\net8.0\ref\Implementar-uma-instrucao-switch.dll

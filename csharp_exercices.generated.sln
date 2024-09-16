@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharp-evaluate-boolean-expressions", "csharp-evaluate-boolean-expressions\csharp-evaluate-boolean-expressions.csproj", "{9B35E930-292E-4D7C-9170-37FA0806852E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csharp-evaluate-boolean-expressions", "csharp-evaluate-boolean-expressions\csharp-evaluate-boolean-expressions.csproj", "{0E7F2405-8988-4190-A929-DF7BCB3A2C8D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "implementar-o-operador-condicional", "implementar-o-operador-condicional\implementar-o-operador-condicional.csproj", "{06B4BA63-80E3-40F5-A7DB-E9E2F8A0B5B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio-da-logica-decisao", "Desafio-da-logica-decisao\Desafio-da-logica-decisao.csproj", "{4D6EACD1-29DD-4358-B34C-9EE55B13B70D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blocos-codigo-ambito-variavel", "blocos-codigo-ambito-variavel\blocos-codigo-ambito-variavel.csproj", "{FAF26DB3-4BE1-45E5-AD96-3DE3AD7DAEDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tipo-variavel", "tipo-variavel\tipo-variavel.csproj", "{2D502843-44D2-4439-BE43-988D4C93C2C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +19,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9B35E930-292E-4D7C-9170-37FA0806852E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9B35E930-292E-4D7C-9170-37FA0806852E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9B35E930-292E-4D7C-9170-37FA0806852E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9B35E930-292E-4D7C-9170-37FA0806852E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E7F2405-8988-4190-A929-DF7BCB3A2C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E7F2405-8988-4190-A929-DF7BCB3A2C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E7F2405-8988-4190-A929-DF7BCB3A2C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E7F2405-8988-4190-A929-DF7BCB3A2C8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B4BA63-80E3-40F5-A7DB-E9E2F8A0B5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B4BA63-80E3-40F5-A7DB-E9E2F8A0B5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B4BA63-80E3-40F5-A7DB-E9E2F8A0B5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B4BA63-80E3-40F5-A7DB-E9E2F8A0B5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D6EACD1-29DD-4358-B34C-9EE55B13B70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D6EACD1-29DD-4358-B34C-9EE55B13B70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D6EACD1-29DD-4358-B34C-9EE55B13B70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D6EACD1-29DD-4358-B34C-9EE55B13B70D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF26DB3-4BE1-45E5-AD96-3DE3AD7DAEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF26DB3-4BE1-45E5-AD96-3DE3AD7DAEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF26DB3-4BE1-45E5-AD96-3DE3AD7DAEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF26DB3-4BE1-45E5-AD96-3DE3AD7DAEDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D502843-44D2-4439-BE43-988D4C93C2C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D502843-44D2-4439-BE43-988D4C93C2C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D502843-44D2-4439-BE43-988D4C93C2C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D502843-44D2-4439-BE43-988D4C93C2C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\blocos-codigo-ambito-variavel\bin\Debug\net8.0\blocos-codigo-ambito-variavel.exe
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\blocos-codigo-ambito-variavel\bin\Debug\net8.0\blocos-codigo-ambito-variavel.deps.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\blocos-codigo-ambito-variavel\bin\Debug\net8.0\blocos-codigo-ambito-variavel.runtimeconfig.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\blocos-codigo-ambito-variavel\bin\Debug\net8.0\blocos-codigo-ambito-variavel.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\blocos-codigo-ambito-variavel\bin\Debug\net8.0\blocos-codigo-ambito-variavel.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\blocos-codigo-ambito-variavel\obj\Debug\net8.0\blocos-codigo-ambito-variavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\blocos-codigo-ambito-variavel\obj\Debug\net8.0\blocos-codigo-ambito-variavel.AssemblyInfoInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\blocos-codigo-ambito-variavel\obj\Debug\net8.0\blocos-codigo-ambito-variavel.AssemblyInfo.cs
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\blocos-codigo-ambito-variavel\obj\Debug\net8.0\blocos-codigo-ambito-variavel.csproj.CoreCompileInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\blocos-codigo-ambito-variavel\obj\Debug\net8.0\blocos-codigo-ambito-variavel.sourcelink.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\blocos-codigo-ambito-variavel\obj\Debug\net8.0\blocos-codigo-ambito-variavel.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\blocos-codigo-ambito-variavel\obj\Debug\net8.0\refint\blocos-codigo-ambito-variavel.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\blocos-codigo-ambito-variavel\obj\Debug\net8.0\blocos-codigo-ambito-variavel.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\blocos-codigo-ambito-variavel\obj\Debug\net8.0\blocos-codigo-ambito-variavel.genruntimeconfig.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\blocos-codigo-ambito-variavel\obj\Debug\net8.0\ref\blocos-codigo-ambito-variavel.dll

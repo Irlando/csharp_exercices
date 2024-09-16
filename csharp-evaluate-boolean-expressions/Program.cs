@@ -69,3 +69,8 @@ Operador de desigualdade versus negação lógica
 string myValue1 = "Y";
 string myValue2 = "y";
 Console.WriteLine((myValue1.Trim().ToLower() != myValue2.Trim().ToLower()));
+
+// 
+Random coin = new Random();
+int flip = coin.Next(0, 2);
+Console.WriteLine((flip == 0) ? "heads" : "tails");
