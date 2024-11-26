@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tipyParce", "tipyParce\tipy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "manipulas-matriz", "manipulas-matriz\manipulas-matriz.csproj", "{BF8A5434-7BA2-44B7-879C-0C77B0E908EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-format-strings", "csharp-format-strings\csharp-format-strings.csproj", "{BFE3A83C-12DE-4C31-97FF-24B63A8D0BE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BF8A5434-7BA2-44B7-879C-0C77B0E908EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF8A5434-7BA2-44B7-879C-0C77B0E908EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF8A5434-7BA2-44B7-879C-0C77B0E908EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE3A83C-12DE-4C31-97FF-24B63A8D0BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE3A83C-12DE-4C31-97FF-24B63A8D0BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE3A83C-12DE-4C31-97FF-24B63A8D0BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE3A83C-12DE-4C31-97FF-24B63A8D0BE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

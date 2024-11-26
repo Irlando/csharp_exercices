@@ -1,0 +1,15 @@
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-format-strings\bin\Debug\net8.0\csharp-format-strings.exe
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-format-strings\bin\Debug\net8.0\csharp-format-strings.deps.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-format-strings\bin\Debug\net8.0\csharp-format-strings.runtimeconfig.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-format-strings\bin\Debug\net8.0\csharp-format-strings.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-format-strings\bin\Debug\net8.0\csharp-format-strings.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-format-strings\obj\Debug\net8.0\csharp-format-strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-format-strings\obj\Debug\net8.0\csharp-format-strings.AssemblyInfoInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-format-strings\obj\Debug\net8.0\csharp-format-strings.AssemblyInfo.cs
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-format-strings\obj\Debug\net8.0\csharp-format-strings.csproj.CoreCompileInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-format-strings\obj\Debug\net8.0\csharp-format-strings.sourcelink.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-format-strings\obj\Debug\net8.0\csharp-format-strings.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-format-strings\obj\Debug\net8.0\refint\csharp-format-strings.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-format-strings\obj\Debug\net8.0\csharp-format-strings.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-format-strings\obj\Debug\net8.0\csharp-format-strings.genruntimeconfig.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-format-strings\obj\Debug\net8.0\ref\csharp-format-strings.dll
