@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Formatar_dados_alfanumericao_apresentacao/1.0.0": {
+        "runtime": {
+          "Formatar_dados_alfanumericao_apresentacao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Formatar_dados_alfanumericao_apresentacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
