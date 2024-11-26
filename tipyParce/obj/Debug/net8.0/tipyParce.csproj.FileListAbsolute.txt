@@ -1,0 +1,15 @@
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipyParce\bin\Debug\net8.0\tipyParce.exe
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipyParce\bin\Debug\net8.0\tipyParce.deps.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipyParce\bin\Debug\net8.0\tipyParce.runtimeconfig.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipyParce\bin\Debug\net8.0\tipyParce.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipyParce\bin\Debug\net8.0\tipyParce.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipyParce\obj\Debug\net8.0\tipyParce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipyParce\obj\Debug\net8.0\tipyParce.AssemblyInfoInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipyParce\obj\Debug\net8.0\tipyParce.AssemblyInfo.cs
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipyParce\obj\Debug\net8.0\tipyParce.csproj.CoreCompileInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipyParce\obj\Debug\net8.0\tipyParce.sourcelink.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipyParce\obj\Debug\net8.0\tipyParce.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipyParce\obj\Debug\net8.0\refint\tipyParce.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipyParce\obj\Debug\net8.0\tipyParce.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipyParce\obj\Debug\net8.0\tipyParce.genruntimeconfig.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\tipyParce\obj\Debug\net8.0\ref\tipyParce.dll

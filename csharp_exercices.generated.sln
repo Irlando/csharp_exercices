@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blocos-codigo-ambito-variav
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tipo-variavel", "tipo-variavel\tipo-variavel.csproj", "{2D502843-44D2-4439-BE43-988D4C93C2C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tipyParce", "tipyParce\tipyParce.csproj", "{DA6E6ED4-7B2B-4900-AA69-5C35355C64D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "manipulas-matriz", "manipulas-matriz\manipulas-matriz.csproj", "{BF8A5434-7BA2-44B7-879C-0C77B0E908EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{2D502843-44D2-4439-BE43-988D4C93C2C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D502843-44D2-4439-BE43-988D4C93C2C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D502843-44D2-4439-BE43-988D4C93C2C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6E6ED4-7B2B-4900-AA69-5C35355C64D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6E6ED4-7B2B-4900-AA69-5C35355C64D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6E6ED4-7B2B-4900-AA69-5C35355C64D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6E6ED4-7B2B-4900-AA69-5C35355C64D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF8A5434-7BA2-44B7-879C-0C77B0E908EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8A5434-7BA2-44B7-879C-0C77B0E908EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8A5434-7BA2-44B7-879C-0C77B0E908EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8A5434-7BA2-44B7-879C-0C77B0E908EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

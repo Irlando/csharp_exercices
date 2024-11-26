@@ -1,0 +1,15 @@
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\manipulas-matriz\bin\Debug\net8.0\manipulas-matriz.exe
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\manipulas-matriz\bin\Debug\net8.0\manipulas-matriz.deps.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\manipulas-matriz\bin\Debug\net8.0\manipulas-matriz.runtimeconfig.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\manipulas-matriz\bin\Debug\net8.0\manipulas-matriz.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\manipulas-matriz\bin\Debug\net8.0\manipulas-matriz.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\manipulas-matriz\obj\Debug\net8.0\manipulas-matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\manipulas-matriz\obj\Debug\net8.0\manipulas-matriz.AssemblyInfoInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\manipulas-matriz\obj\Debug\net8.0\manipulas-matriz.AssemblyInfo.cs
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\manipulas-matriz\obj\Debug\net8.0\manipulas-matriz.csproj.CoreCompileInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\manipulas-matriz\obj\Debug\net8.0\manipulas-matriz.sourcelink.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\manipulas-matriz\obj\Debug\net8.0\manipulas-matriz.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\manipulas-matriz\obj\Debug\net8.0\refint\manipulas-matriz.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\manipulas-matriz\obj\Debug\net8.0\manipulas-matriz.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\manipulas-matriz\obj\Debug\net8.0\manipulas-matriz.genruntimeconfig.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\manipulas-matriz\obj\Debug\net8.0\ref\manipulas-matriz.dll
