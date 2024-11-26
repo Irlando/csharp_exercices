@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("blocos-codigo-ambito-variavel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7aab4c1d7e3f37be6bcb14be4db534888263d053")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe3b1e9fae33e1fe10d5d1ae043c68fdbe17e0cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("blocos-codigo-ambito-variavel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("blocos-codigo-ambito-variavel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
