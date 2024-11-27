@@ -1,0 +1,15 @@
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-modify-content\bin\Debug\net8.0\csharp-modify-content.exe
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-modify-content\bin\Debug\net8.0\csharp-modify-content.deps.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-modify-content\bin\Debug\net8.0\csharp-modify-content.runtimeconfig.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-modify-content\bin\Debug\net8.0\csharp-modify-content.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-modify-content\bin\Debug\net8.0\csharp-modify-content.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-modify-content\obj\Debug\net8.0\csharp-modify-content.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-modify-content\obj\Debug\net8.0\csharp-modify-content.AssemblyInfoInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-modify-content\obj\Debug\net8.0\csharp-modify-content.AssemblyInfo.cs
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-modify-content\obj\Debug\net8.0\csharp-modify-content.csproj.CoreCompileInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-modify-content\obj\Debug\net8.0\csharp-modify-content.sourcelink.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-modify-content\obj\Debug\net8.0\csharp-modify-content.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-modify-content\obj\Debug\net8.0\refint\csharp-modify-content.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-modify-content\obj\Debug\net8.0\csharp-modify-content.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-modify-content\obj\Debug\net8.0\csharp-modify-content.genruntimeconfig.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\csharp-modify-content\obj\Debug\net8.0\ref\csharp-modify-content.dll

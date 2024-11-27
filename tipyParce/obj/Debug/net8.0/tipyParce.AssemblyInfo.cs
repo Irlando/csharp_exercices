@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tipyParce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe3b1e9fae33e1fe10d5d1ae043c68fdbe17e0cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e341d06fe24d5d3bd660e5b8554fc12794e9432b")]
 [assembly: System.Reflection.AssemblyProductAttribute("tipyParce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tipyParce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

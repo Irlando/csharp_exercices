@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp-format-strings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f825f70e3c17f773611f18778be18e98e70a336")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e341d06fe24d5d3bd660e5b8554fc12794e9432b")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp-format-strings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp-format-strings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

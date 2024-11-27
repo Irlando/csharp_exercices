@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Formatar_dados_alfanumericao_apresentacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9fa26407dc324b9ae853973e17261308a11ac3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e341d06fe24d5d3bd660e5b8554fc12794e9432b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Formatar_dados_alfanumericao_apresentacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Formatar_dados_alfanumericao_apresentacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

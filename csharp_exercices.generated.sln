@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-format-strings", "cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formatar_dados_alfanumericao_apresentacao", "Formatar_dados_alfanumericao_apresentacao\Formatar_dados_alfanumericao_apresentacao.csproj", "{F1B7DABC-2D8F-4091-99EA-ADEA8378204D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-modify-content", "csharp-modify-content\csharp-modify-content.csproj", "{E084B0F5-BF10-41C7-B36B-F989EE54EB70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F1B7DABC-2D8F-4091-99EA-ADEA8378204D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1B7DABC-2D8F-4091-99EA-ADEA8378204D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1B7DABC-2D8F-4091-99EA-ADEA8378204D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E084B0F5-BF10-41C7-B36B-F989EE54EB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E084B0F5-BF10-41C7-B36B-F989EE54EB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E084B0F5-BF10-41C7-B36B-F989EE54EB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E084B0F5-BF10-41C7-B36B-F989EE54EB70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
