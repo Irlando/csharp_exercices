@@ -1,0 +1,15 @@
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-displayRondomNumbers\bin\Debug\net8.0\metodo-displayRondomNumbers.exe
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-displayRondomNumbers\bin\Debug\net8.0\metodo-displayRondomNumbers.deps.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-displayRondomNumbers\bin\Debug\net8.0\metodo-displayRondomNumbers.runtimeconfig.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-displayRondomNumbers\bin\Debug\net8.0\metodo-displayRondomNumbers.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-displayRondomNumbers\bin\Debug\net8.0\metodo-displayRondomNumbers.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-displayRondomNumbers\obj\Debug\net8.0\metodo-displayRondomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-displayRondomNumbers\obj\Debug\net8.0\metodo-displayRondomNumbers.AssemblyInfoInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-displayRondomNumbers\obj\Debug\net8.0\metodo-displayRondomNumbers.AssemblyInfo.cs
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-displayRondomNumbers\obj\Debug\net8.0\metodo-displayRondomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-displayRondomNumbers\obj\Debug\net8.0\metodo-displayRondomNumbers.sourcelink.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-displayRondomNumbers\obj\Debug\net8.0\metodo-displayRondomNumbers.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-displayRondomNumbers\obj\Debug\net8.0\refint\metodo-displayRondomNumbers.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-displayRondomNumbers\obj\Debug\net8.0\metodo-displayRondomNumbers.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-displayRondomNumbers\obj\Debug\net8.0\metodo-displayRondomNumbers.genruntimeconfig.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-displayRondomNumbers\obj\Debug\net8.0\ref\metodo-displayRondomNumbers.dll
