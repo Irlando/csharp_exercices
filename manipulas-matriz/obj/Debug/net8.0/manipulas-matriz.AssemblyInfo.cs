@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("manipulas-matriz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e341d06fe24d5d3bd660e5b8554fc12794e9432b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fece990c37957e6fd2261d6e1ea123e5f0509543")]
 [assembly: System.Reflection.AssemblyProductAttribute("manipulas-matriz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("manipulas-matriz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
