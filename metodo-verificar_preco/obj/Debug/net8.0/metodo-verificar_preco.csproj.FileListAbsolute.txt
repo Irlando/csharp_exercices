@@ -1,0 +1,15 @@
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-verificar_preco\bin\Debug\net8.0\metodo-verificar_preco.exe
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-verificar_preco\bin\Debug\net8.0\metodo-verificar_preco.deps.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-verificar_preco\bin\Debug\net8.0\metodo-verificar_preco.runtimeconfig.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-verificar_preco\bin\Debug\net8.0\metodo-verificar_preco.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-verificar_preco\bin\Debug\net8.0\metodo-verificar_preco.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-verificar_preco\obj\Debug\net8.0\metodo-verificar_preco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-verificar_preco\obj\Debug\net8.0\metodo-verificar_preco.AssemblyInfoInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-verificar_preco\obj\Debug\net8.0\metodo-verificar_preco.AssemblyInfo.cs
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-verificar_preco\obj\Debug\net8.0\metodo-verificar_preco.csproj.CoreCompileInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-verificar_preco\obj\Debug\net8.0\metodo-verificar_preco.sourcelink.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-verificar_preco\obj\Debug\net8.0\metodo-verificar_preco.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-verificar_preco\obj\Debug\net8.0\refint\metodo-verificar_preco.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-verificar_preco\obj\Debug\net8.0\metodo-verificar_preco.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-verificar_preco\obj\Debug\net8.0\metodo-verificar_preco.genruntimeconfig.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-verificar_preco\obj\Debug\net8.0\ref\metodo-verificar_preco.dll

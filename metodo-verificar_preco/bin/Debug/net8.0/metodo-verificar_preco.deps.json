@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "metodo-verificar_preco/1.0.0": {
+        "runtime": {
+          "metodo-verificar_preco.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "metodo-verificar_preco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

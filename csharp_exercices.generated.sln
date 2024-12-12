@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodo-control_fuso_horario
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodo-vericar_ipv4", "metodo-vericar_ipv4\metodo-vericar_ipv4.csproj", "{DDE1960A-28CD-4503-BD70-A57E8B3FCC46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodo-verificar_preco", "metodo-verificar_preco\metodo-verificar_preco.csproj", "{75F801DC-080A-4CB2-807C-E2BB689CFBCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{DDE1960A-28CD-4503-BD70-A57E8B3FCC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDE1960A-28CD-4503-BD70-A57E8B3FCC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDE1960A-28CD-4503-BD70-A57E8B3FCC46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75F801DC-080A-4CB2-807C-E2BB689CFBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F801DC-080A-4CB2-807C-E2BB689CFBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F801DC-080A-4CB2-807C-E2BB689CFBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F801DC-080A-4CB2-807C-E2BB689CFBCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
