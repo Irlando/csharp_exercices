@@ -1,0 +1,15 @@
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-control_fuso_horario\bin\Debug\net8.0\metodo-control_fuso_horario.exe
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-control_fuso_horario\bin\Debug\net8.0\metodo-control_fuso_horario.deps.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-control_fuso_horario\bin\Debug\net8.0\metodo-control_fuso_horario.runtimeconfig.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-control_fuso_horario\bin\Debug\net8.0\metodo-control_fuso_horario.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-control_fuso_horario\bin\Debug\net8.0\metodo-control_fuso_horario.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-control_fuso_horario\obj\Debug\net8.0\metodo-control_fuso_horario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-control_fuso_horario\obj\Debug\net8.0\metodo-control_fuso_horario.AssemblyInfoInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-control_fuso_horario\obj\Debug\net8.0\metodo-control_fuso_horario.AssemblyInfo.cs
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-control_fuso_horario\obj\Debug\net8.0\metodo-control_fuso_horario.csproj.CoreCompileInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-control_fuso_horario\obj\Debug\net8.0\metodo-control_fuso_horario.sourcelink.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-control_fuso_horario\obj\Debug\net8.0\metodo-control_fuso_horario.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-control_fuso_horario\obj\Debug\net8.0\refint\metodo-control_fuso_horario.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-control_fuso_horario\obj\Debug\net8.0\metodo-control_fuso_horario.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-control_fuso_horario\obj\Debug\net8.0\metodo-control_fuso_horario.genruntimeconfig.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metodo-control_fuso_horario\obj\Debug\net8.0\ref\metodo-control_fuso_horario.dll

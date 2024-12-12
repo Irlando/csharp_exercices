@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-modify-content", "cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodo-displayRondomNumbers", "metodo-displayRondomNumbers\metodo-displayRondomNumbers.csproj", "{F35D7467-500C-4770-9434-1EF8F9BEAB63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodo-control_fuso_horario", "metodo-control_fuso_horario\metodo-control_fuso_horario.csproj", "{12169F0B-A6C0-4FBF-8BA0-75FBE086A366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodo-vericar_ipv4", "metodo-vericar_ipv4\metodo-vericar_ipv4.csproj", "{DDE1960A-28CD-4503-BD70-A57E8B3FCC46}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{F35D7467-500C-4770-9434-1EF8F9BEAB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F35D7467-500C-4770-9434-1EF8F9BEAB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F35D7467-500C-4770-9434-1EF8F9BEAB63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12169F0B-A6C0-4FBF-8BA0-75FBE086A366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12169F0B-A6C0-4FBF-8BA0-75FBE086A366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12169F0B-A6C0-4FBF-8BA0-75FBE086A366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12169F0B-A6C0-4FBF-8BA0-75FBE086A366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDE1960A-28CD-4503-BD70-A57E8B3FCC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE1960A-28CD-4503-BD70-A57E8B3FCC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE1960A-28CD-4503-BD70-A57E8B3FCC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE1960A-28CD-4503-BD70-A57E8B3FCC46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
