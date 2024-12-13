@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("metodo-vericar_ipv4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63a9293bf28d9dafbd49e69f1218242a6dd766c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9db6a2070bdf5962a17aa44c93ba1caa80fc0af")]
 [assembly: System.Reflection.AssemblyProductAttribute("metodo-vericar_ipv4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("metodo-vericar_ipv4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

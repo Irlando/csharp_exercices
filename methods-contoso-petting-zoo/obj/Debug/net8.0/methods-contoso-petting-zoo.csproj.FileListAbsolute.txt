@@ -1,0 +1,15 @@
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\methods-contoso-petting-zoo\bin\Debug\net8.0\methods-contoso-petting-zoo.exe
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\methods-contoso-petting-zoo\bin\Debug\net8.0\methods-contoso-petting-zoo.deps.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\methods-contoso-petting-zoo\bin\Debug\net8.0\methods-contoso-petting-zoo.runtimeconfig.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\methods-contoso-petting-zoo\bin\Debug\net8.0\methods-contoso-petting-zoo.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\methods-contoso-petting-zoo\bin\Debug\net8.0\methods-contoso-petting-zoo.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\methods-contoso-petting-zoo\obj\Debug\net8.0\methods-contoso-petting-zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\methods-contoso-petting-zoo\obj\Debug\net8.0\methods-contoso-petting-zoo.AssemblyInfoInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\methods-contoso-petting-zoo\obj\Debug\net8.0\methods-contoso-petting-zoo.AssemblyInfo.cs
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\methods-contoso-petting-zoo\obj\Debug\net8.0\methods-contoso-petting-zoo.csproj.CoreCompileInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\methods-contoso-petting-zoo\obj\Debug\net8.0\methods-contoso-petting-zoo.sourcelink.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\methods-contoso-petting-zoo\obj\Debug\net8.0\methods-contoso-petting-zoo.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\methods-contoso-petting-zoo\obj\Debug\net8.0\refint\methods-contoso-petting-zoo.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\methods-contoso-petting-zoo\obj\Debug\net8.0\methods-contoso-petting-zoo.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\methods-contoso-petting-zoo\obj\Debug\net8.0\methods-contoso-petting-zoo.genruntimeconfig.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\methods-contoso-petting-zoo\obj\Debug\net8.0\ref\methods-contoso-petting-zoo.dll

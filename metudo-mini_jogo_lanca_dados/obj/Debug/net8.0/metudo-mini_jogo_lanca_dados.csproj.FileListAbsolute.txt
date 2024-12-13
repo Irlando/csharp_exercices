@@ -1,0 +1,15 @@
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metudo-mini_jogo_lanca_dados\bin\Debug\net8.0\metudo-mini_jogo_lanca_dados.exe
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metudo-mini_jogo_lanca_dados\bin\Debug\net8.0\metudo-mini_jogo_lanca_dados.deps.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metudo-mini_jogo_lanca_dados\bin\Debug\net8.0\metudo-mini_jogo_lanca_dados.runtimeconfig.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metudo-mini_jogo_lanca_dados\bin\Debug\net8.0\metudo-mini_jogo_lanca_dados.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metudo-mini_jogo_lanca_dados\bin\Debug\net8.0\metudo-mini_jogo_lanca_dados.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metudo-mini_jogo_lanca_dados\obj\Debug\net8.0\metudo-mini_jogo_lanca_dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metudo-mini_jogo_lanca_dados\obj\Debug\net8.0\metudo-mini_jogo_lanca_dados.AssemblyInfoInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metudo-mini_jogo_lanca_dados\obj\Debug\net8.0\metudo-mini_jogo_lanca_dados.AssemblyInfo.cs
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metudo-mini_jogo_lanca_dados\obj\Debug\net8.0\metudo-mini_jogo_lanca_dados.csproj.CoreCompileInputs.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metudo-mini_jogo_lanca_dados\obj\Debug\net8.0\metudo-mini_jogo_lanca_dados.sourcelink.json
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metudo-mini_jogo_lanca_dados\obj\Debug\net8.0\metudo-mini_jogo_lanca_dados.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metudo-mini_jogo_lanca_dados\obj\Debug\net8.0\refint\metudo-mini_jogo_lanca_dados.dll
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metudo-mini_jogo_lanca_dados\obj\Debug\net8.0\metudo-mini_jogo_lanca_dados.pdb
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metudo-mini_jogo_lanca_dados\obj\Debug\net8.0\metudo-mini_jogo_lanca_dados.genruntimeconfig.cache
+C:\Users\Irlando.Pereira\CsharpProjects\csharp_exercices\metudo-mini_jogo_lanca_dados\obj\Debug\net8.0\ref\metudo-mini_jogo_lanca_dados.dll

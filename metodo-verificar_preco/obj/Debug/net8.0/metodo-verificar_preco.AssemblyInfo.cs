@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("metodo-verificar_preco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acda64b158a857785cf693e472e50b5417e29459")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9db6a2070bdf5962a17aa44c93ba1caa80fc0af")]
 [assembly: System.Reflection.AssemblyProductAttribute("metodo-verificar_preco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("metodo-verificar_preco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
